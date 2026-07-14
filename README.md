@@ -1,0 +1,1 @@
+Outlines the design and code of a frontend service that enables users to interact with a book management system pulling the data from a backend microservice based architecture. The system efficiently implements the rate limiting feature by restricting request calls made to each service by the user. The service is backed by the express framework for implementing the same. 
